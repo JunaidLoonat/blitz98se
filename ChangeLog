@@ -1,0 +1,15 @@
+# 2026-09-19 Version 0.2.0
+
+  * vGPU10
+  * Direct3D bootstrap with first triangle
+
+
+# 2026-09-18 Version 0.1.0
+
+  * Win9x bring-up
+  * DirectDraw 2D
+
+
+# 2026-09-14 Version 0.0.1
+
+  * Project creation and architecture scaffold.
